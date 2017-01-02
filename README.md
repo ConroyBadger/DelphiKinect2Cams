@@ -16,7 +16,9 @@ IR - this one has a divisor control to show more or less detail
 
 Color - this one shows the full HD color image
 
+Special thanks to Antimodular Incorporated where I worked while writing this code. They have generously allowed it into the public domain.
 
+http://lozano-hemmer.com/
 
 
 
