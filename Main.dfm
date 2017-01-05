@@ -67,8 +67,6 @@ object MainFrm: TMainFrm
       item
         Width = 50
       end>
-    ExplicitTop = 287
-    ExplicitWidth = 340
   end
   object DepthRB: TRadioButton
     Left = 8
